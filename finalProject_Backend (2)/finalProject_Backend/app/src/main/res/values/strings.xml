@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ladle</string>
+    <string name="createThingsTitleHint">Title</string>
+    <string name="createThingsDescriptionHint">Description</string>
+    <string name="createThingsTitle">Create your Thing</string>
+    <string name="createThingsButton"></string>
+    <string name="my_profile">My Profile</string>
+</resources>

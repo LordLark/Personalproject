@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="darkMode">#cecece</color>
+    <color name="darkButtons">#606060</color>
+    <color name="user_profile">#0011ff</color>
+    <color name="things">#2ea00b</color>
+    <color name="bright">#46dd18</color>
+    <color name="posts">#ef0b50</color>
+    <color name="homepage">#ce0000</color>
+</resources>
